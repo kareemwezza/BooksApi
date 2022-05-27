@@ -13,6 +13,6 @@ app.use((error, req, res, next) => {
   res.json({ msg: error });
 });
 
-app.listen(4000, () => {
+app.listen(process.env.PORT, () => {
   console.log("Server Running successfuly on port 4000");
 });
