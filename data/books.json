@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Eloquent JavaScript, Third Edition",
+    "language": "en",
+    "pages": 472,
+    "isbn": "9781593279",
+    "authors": ["1"]
+  },
+  {
+    "id": "2",
+    "title": "Productivity in Software Engineering",
+    "language": "en",
+    "pages": 310,
+    "isbn": "9781484242",
+    "authors": ["3"]
+  },
+  {
+    "id": "3",
+    "title": "Eloquent JavaScript, New Edition",
+    "language": "en",
+    "pages": 50,
+    "isbn": "9781593279",
+    "authors": ["1"]
+  },
+  {
+    "id": "4",
+    "title": "Eloquent JavaScript, New Edition",
+    "language": "en",
+    "pages": 50,
+    "isbn": "9781593279",
+    "authors": ["1"]
+  },
+  {
+    "id": "5",
+    "title": "Eloquent JavaScript, New Edition",
+    "language": "en",
+    "pages": 50,
+    "isbn": "9781593279",
+    "authors": ["1"]
+  },
+  {
+    "id": 6,
+    "title": "Eloquent JavaScript, New Edition",
+    "language": "en",
+    "pages": 50,
+    "isbn": "9781593279",
+    "authors": ["1"]
+  },
+  {
+    "id": "1653669935258",
+    "title": "New Book",
+    "language": "en",
+    "pages": 50,
+    "isbn": "9781593271",
+    "authors": ["1", "5"]
+  }
+]
